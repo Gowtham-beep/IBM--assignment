@@ -1,3 +1,7 @@
+
+Checkout the repo here : https://github.com/Gowtham-beep/IBM--assignment.git
+
+
 # IBM--assignment
 Devops Course assignment
 
